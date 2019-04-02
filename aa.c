@@ -9,3 +9,9 @@ int main()
     }
     return 0;
 }
+bdjnk
+dee
+we
+de
+w
+d
